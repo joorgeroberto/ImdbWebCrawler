@@ -1,0 +1,17 @@
+{
+  "name": "imdbwebcrawler",
+  "version": "1.0.0",
+  "description": "A simple WebCrawler to test some concepts",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "yarn test",
+    "start": "node index.js"
+  },
+  "author": "Jorge de Carvalho",
+  "license": "ISC"
+}
